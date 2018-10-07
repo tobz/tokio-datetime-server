@@ -1,0 +1,10 @@
+[package]
+name = "tokio-datetime-server"
+version = "0.1.0"
+authors = ["Toby Lawrence <tlawrence@wayfair.com>"]
+edition = "2018"
+
+[dependencies]
+tokio = "^0.1"
+futures = "^0.1"
+chrono = "^0.4"
